@@ -56,7 +56,7 @@ tags: [ Histology sections, , coral, gonads,  ]
 ●	Let it chill on ice for a few hours and then transfer to 40c overnight.
 
 
-![Blocks]({{site.baseurl}}/images/Blocks.png."Blocks")
+![Blocks]({{site.baseurl}}/images/Blocks.png"Blocks")
 
 **Save paraffin blocks at RT (in case of extra heated places it is better to store the block inside a box in a minus 40c fridge).
 Before sectioning in microtome, chill the blocks on ice or in ice-cold water.**
