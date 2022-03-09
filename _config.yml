@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Leeore_Lab_Notebook_MassLab
+name: Leeore_Open_Lab_Notebook_Mass_Lab
 
 # Short bio or description (displayed in the header)
 description: Lab Notebook of the Mass Lab - Coral Biomineralization and Physiology
@@ -47,7 +47,7 @@ url: "https://github.com/LeeoreNS"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Leoore_Open_Lab_Notebook_Mass_Lab"
+baseurl: "/Leeore_Open_Lab_Notebook_Mass_Lab"
 
 #
 # !! You don't need to change any of the configuration flags below !!
